@@ -6,4 +6,4 @@
 2)find digit number
 
 
-and 1 project for reduce data
+and another project for reduce data
