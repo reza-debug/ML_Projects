@@ -27,6 +27,6 @@ Note: This is just a brief overview. Please provide more details for each projec
 
 Additional Information:
 
-Feel free to connect with me on LinkedIn: [www.linkedin.com/in/reza-abdolahi-8a43ba146]
+Feel free to connect with me on LinkedIn: [www.linkedin.com/in/reza-abdolahi0175]
 
 Thank you!
