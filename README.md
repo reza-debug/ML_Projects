@@ -5,14 +5,14 @@ This repository showcases my personal Machine Learning projects. Here's a quick 
 
 1. Cancer Diagnosis
 
-Developed a deep learning model to identify cancer cells in biopsy images.
+Developed a deep learning model to identify cancer.
 Achieved 97.5% accuracy, potentially aiding in early cancer detection.
 
 
 
 2. Digit Recognition
 
-Built a real-time system to recognize handwritten digits.
+Built a system to recognize handwritten digits.
 Achieved 99% accuracy on a benchmark dataset.
 
 
